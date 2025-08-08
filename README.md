@@ -13,9 +13,9 @@
 - 📊 Passionate about exploring data and uncovering insights
 - 🎨 Also enjoy crafting intuitive and beautiful **UI/UX** designs
 - 🌱 Currently learning: **Power BI | Tableau | Figma | Advanced Excel**
-- 🛠️ Tools I use: **Python | SQL | Pandas | Excel | Figma**
+- 🛠️ Tools I use: **Python | SQL | Excel | Figma**
 - 💬 Ask me about: **Data Analysis, Dashboards, Visual Storytelling**
-- 📧 Reach me: `your-email@example.com` *(update this)*
+- 📧 Reach me: `dhanishdans@gmail.com` *(update this)*
 - 🎯 2025 Goal: Land a data role & design a portfolio of dashboards
 
 ---
